@@ -1,0 +1,2 @@
+H:\MTRN3500\weeder-assignment-unsw-main-starter-code\weeder-assignment-unsw-main\MTRN3500 Assignment 2\x64\Debug\MTRN3500 Assignment 2.vcxproj.AssemblyReference.cache
+H:\MTRN3500\weeder-assignment-unsw-main-starter-code\weeder-assignment-unsw-main\MTRN3500 Assignment 2\x64\Debug\MTRN3500 Assignment 2.vcxproj.SuggestedBindingRedirects.cache

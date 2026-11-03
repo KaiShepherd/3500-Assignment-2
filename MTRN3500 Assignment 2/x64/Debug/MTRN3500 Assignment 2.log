@@ -1,0 +1,4 @@
+﻿  LiDAR.cpp
+  Controller.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+ControllerInterface_x64_Debug.lib(controllerInterface.obj) : warning LNK4099: PDB 'ControllerInterface_x64_Debug.pdb' was not found with 'ControllerInterface_x64_Debug.lib(controllerInterface.obj)' or at 'H:\MTRN3500\weeder-assignment-unsw-main-starter-code\weeder-assignment-unsw-main\Executables\ControllerInterface_x64_Debug.pdb'; linking object as if no debug info
+  MTRN3500 Assignment 2.vcxproj -> H:\MTRN3500\weeder-assignment-unsw-main-starter-code\weeder-assignment-unsw-main\Executables\MTRN3500 Assignment 2.exe

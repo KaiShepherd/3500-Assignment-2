@@ -1,0 +1,5 @@
+#pragma once
+//inherits from NetworkModule
+
+#include <NetworkedModule.h>
+
